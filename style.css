@@ -1,0 +1,62 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.hero-image {
+    background-image: url("file:///Users/ericgossett/Desktop/momentum/photo/bio1.jpg");    
+}
+
+.abouthome {
+    background-color: rgb(34, 37, 41);
+    background-size: 10em;
+    width: 100%;
+    padding: 4em;
+}
+
+.rectangle {
+    height: 5px;
+    width: 150px;
+    background-color: rgb(54, 54, 54);
+    margin-left: 45%;
+    
+}
+
+.endhome {
+    background-color: rgb(238, 95, 70);
+    background-size: 10em;
+    width: 100%;
+    padding: 4em;
+}
+
+.portfolio-box {
+    position: relative;
+    display: block;
+    max-width: 650px;
+    margin: 0 auto;
+  }
+
+
+
+
+
+
+/* appointment */
+.form {
+margin-left: 35%;
+}
+
+.phoneicon {
+    margin-left: 35%;
+    padding: 5px;
+}
+
+/*Oil */
+
+/*Complete Repair */
+.completelist1 {
+    margin-left: 0em;
+
+}
+
+
+/*Tire & Alignment */
