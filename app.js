@@ -1,7 +1,16 @@
-let friends = ['Iron Man', 'Spider Man', 'Star Lord', 'Thor', 'Captain America', 'Black Widow', 'Hulk',];
+function myMap() {
+    var mapOptions = {
+        center: new google.maps.LatLng(33.345917, -86.800178),
+        zoom: 18,
+        mapTypeId: google.maps.MapTypeId.ROADMAP
+        
+    }
 
-let count = 0;
-do {
-    console.log('test');
-} while (false);
+
+var map = new google.maps.Map(document.getElementById("map"), mapOptions);
+
+
+}
+
+
 
